@@ -1,2 +1,4 @@
 .python-version
-.ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
+day3/256_ObjectCategories*
+**/model.png
